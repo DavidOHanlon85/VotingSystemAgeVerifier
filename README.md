@@ -1,3 +1,4 @@
 <h1>Voting System Age Verifier</h1>
 
-![image](https://github.com/user-attachments/assets/061cb250-bedd-4497-a0a8-24640da99967)
+![image](https://github.com/user-attachments/assets/42e37161-c41d-428f-ac92-da3a2fa25df6)
+
